@@ -1,4 +1,2 @@
-# hello-world
-
-Matthew Balkaran
-OPS435
+# Matthew Balkaran
+# OPS435
